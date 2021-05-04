@@ -1,0 +1,22 @@
+objectid,title,format,filename,date,subject,location,latitude,longitude
+item1,Brown Horse,image/jpeg,brownhorse.jpg,2021,horse,outside,46.60536504,-108.6770298
+item2,Chill Chameleon,image/jpeg,chillchameleon.jpg,2020,lizard,outside,-7.474317615,-55.92085104
+item3,Colourful Bird,image/jpeg,colourfulbird.jpg,2019,bird,outside,-3.266923675,19.82609626
+item4,Dramatic Sea Lion,image/jpeg,dramaticsealion.jpg,2018,sealife; sealion,outside,62.1871877,7.978362996
+item5,Fluffy Duckling,image/jpeg,fluffyduckling.jpg,2017,bird;duck,outside,44.83612235,-78.89435924
+item6,Giant Panda,image/jpeg,giantpanda.jpg,2016,panda,outside,30.24022303,117.9212613
+item7,Grey Wolf,image/jpeg,greywolf.jpg,2015,wolf;canine,outside,62.33102567,-121.7254993
+item8,Happy Corgi,image/jpeg,happycorgi.jpg,2014,dog;canine,outside,51.56694335,-0.447817963
+item9,Husky Pup,image/jpeg,huskypup.jpg,2013,dog;canine,outside,68.03212086,33.4406217
+item10,Little Polar Bear,image/jpeg,littlepolarbear.jpg,2012,bear,outside,74.28507871,-41.85003189
+item11,Lovely Fish,image/jpeg,lovelyfish.jpg,2011,fish;sealife,outside,3.406753378,80.86954998
+item12,Majestic Giraffe,image/jpeg,majesticgiraffe.jpg,2010,giraffe,outside,12.13468093,4.718063982
+item13,Mug Puppy,image/jpeg,mugpuppy.jpg,2009,dog;canine,outside,40.71309245,-74.06517832
+item14,Pig Ride,image/jpeg,pigride.jpg,2008,pig;bird,outside,21.30179356,-77.91702415
+item15,Prickly Hedgehog,image/jpeg,pricklyhedgehog.jpg,2007,hedgehog,outside,53.50058909,-105.9806864
+item16,Red Squirrel,image/jpeg,redsquirrel.jpg,2006,squirrel;rodent,outside,53.25117861,-126.1008169
+item17,Relaxed Lion,image/jpeg,relaxedlion.jpg,2005,lion;cat,outside,0.556865558,37.50392928
+item18,River Tiger,image/jpeg,rivertiger.jpg,2004,tiger;cat,outside,-30.14055134,27.73129455
+item19,Sitting Toucan,image/jpeg,sittingtoucan.jpg,2003,bird,outside,-5.912852063,143.330589
+item20,Sleepy Fox,image/jpeg,sleepyfox.jpg,2002,fox;canine,outside,48.0324731,32.22566178
+item21,White Kitten,image/jpeg,whitekitten.jpg,2001,cat,inside,36.52919236,-119.6854198
